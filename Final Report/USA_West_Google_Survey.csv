@@ -1,0 +1,37 @@
+Age,Gender,Region,Q1 Answer,Response Count
+18-24,male,US-WA,Employee Benefits,1
+25-34,male,US-NM,Working from home,1
+25-34,female,US-ID,Job Satisfaction,1
+25-34,female,US-MT,Job Satisfaction,1
+25-34,male,US-NM,Job Satisfaction,1
+35-44,female,US-NM,Employee Benefits,1
+35-44,female,US-CO,Work Location,1
+35-44,male,US-CO,Working from home,1
+35-44,male,US-OR,Employee Benefits,1
+35-44,male,US-MT,Working from home,1
+35-44,male,US-WA,Working from home,1
+35-44,male,US-CO,Job Satisfaction,1
+35-44,male,US-NM,Job Satisfaction,1
+45-54,female,US-CO,Working from home,1
+45-54,female,US-NV,Job Satisfaction,1
+45-54,male,US-NV,Job Satisfaction,1
+45-54,female,US-NM,Job Satisfaction,1
+45-54,male,US-NM,Working from home,1
+45-54,female,US-NM,Working from home,2
+45-54,female,US-NM,Work environment,3
+45-54,male,US-CA,Employee Benefits,1
+45-54,male,US-CO,Job Satisfaction,2
+45-54,male,US-NM,Employee Benefits,1
+55-64,female,US-NM,Job Satisfaction,1
+55-64,male,US-CO,Job Satisfaction,1
+55-64,male,US-MT,Work environment,1
+55-64,male,US-NM,Employee Benefits,1
+55-64,female,US-WA,Work environment,1
+55-64,female,US-NM,Working from home,1
+65+,male,US-NM,Work environment,1
+65+,female,US-WY,Employee Benefits,1
+65+,female,US-CO,Work Location,1
+65+,male,US-MT,Job Satisfaction,1
+65+,female,US-OR,Employee Benefits,1
+65+,male,US-NM,Job Satisfaction,4
+65+,male,US-CO,Employee Benefits,1

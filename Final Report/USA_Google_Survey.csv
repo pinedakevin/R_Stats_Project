@@ -1,0 +1,232 @@
+Age,Gender,Region,Q1 Answer,Response Count
+18-24,female,US-CA,Job Satisfaction,1
+18-24,female,US-NY,Employee Benefits,1
+18-24,male,US-FL,Employee Benefits,1
+18-24,male,US-CO,Employee Benefits,1
+18-24,female,US-IL,Employee Benefits,1
+18-24,male,US-WI,Job Satisfaction,1
+18-24,male,US-PA,Working from home,1
+18-24,male,US-IL,Employee Benefits,1
+18-24,female,US-FL,Work environment,1
+18-24,male,US-NJ,Working from home,1
+18-24,female,US-CA,Employee Benefits,1
+18-24,female,,Working from home,1
+18-24,male,US-CA,Work Location,1
+18-24,female,US-NY,Job Satisfaction,1
+18-24,female,US-TX,Work Location,1
+18-24,male,US-CA,Employee Benefits,1
+18-24,male,US-UT,Working from home,1
+18-24,male,US-VT,Working from home,1
+18-24,male,,Work environment,1
+18-24,male,US-NY,Working from home,1
+18-24,male,US-CA,Job Satisfaction,1
+18-24,male,US-OR,Employee Benefits,1
+18-24,male,US-VA,Employee Benefits,1
+18-24,female,US-FL,Work Location,1
+18-24,female,US-FL,Working from home,1
+18-24,male,US-WA,Employee Benefits,1
+18-24,male,,Employee Benefits,1
+18-24,male,US-PA,Job Satisfaction,1
+18-24,female,US-AZ,Work environment,1
+25-34,male,US-MD,Working from home,1
+25-34,female,US-CO,Job Satisfaction,1
+25-34,female,US-NY,Working from home,1
+25-34,male,US-CA,Work environment,2
+25-34,male,,Working from home,1
+25-34,female,US-AZ,Job Satisfaction,1
+25-34,male,US-NY,Working from home,2
+25-34,female,US-NJ,Working from home,1
+25-34,female,,Working from home,1
+25-34,female,US-NV,Working from home,1
+25-34,male,US-NV,Employee Benefits,1
+25-34,male,US-MN,Job Satisfaction,1
+25-34,female,US-WA,Work environment,1
+25-34,female,US-MA,Work environment,1
+25-34,female,US-MN,Work environment,1
+25-34,female,US-AZ,Employee Benefits,1
+25-34,female,US-UT,Working from home,1
+25-34,female,US-FL,Working from home,1
+35-44,male,US-HI,Work environment,1
+35-44,female,US-SC,Job Satisfaction,1
+35-44,female,US-NJ,Work environment,1
+35-44,male,US-GA,Job Satisfaction,1
+35-44,female,US-IL,Work environment,1
+35-44,female,US-NY,Work environment,1
+35-44,male,US-VA,Work environment,1
+35-44,male,,Working from home,1
+35-44,male,US-MT,Work Location,1
+35-44,male,US-WA,Employee Benefits,1
+35-44,male,US-KY,Employee Benefits,1
+35-44,female,US-MI,Working from home,1
+35-44,male,US-MO,Job Satisfaction,1
+35-44,female,US-CA,Work environment,1
+35-44,male,US-MA,Employee Benefits,1
+35-44,male,US-FL,Job Satisfaction,1
+35-44,female,US-VA,Working from home,1
+35-44,female,US-FL,Work Location,1
+35-44,female,US-TN,Employee Benefits,1
+35-44,female,US-ID,Working from home,1
+35-44,male,US-TX,Working from home,1
+35-44,male,US-FL,Employee Benefits,2
+35-44,male,US-WA,Working from home,1
+35-44,male,US-PA,Work Location,1
+35-44,female,US-MN,Working from home,1
+35-44,male,,Employee Benefits,1
+35-44,female,US-UT,Job Satisfaction,1
+35-44,male,US-CA,Working from home,1
+45-54,male,US-AL,Job Satisfaction,1
+45-54,female,US-WI,Job Satisfaction,1
+45-54,female,US-VA,Work environment,1
+45-54,female,US-MN,Working from home,1
+45-54,female,,Job Satisfaction,1
+45-54,female,US-MT,Job Satisfaction,1
+45-54,female,US-AL,Employee Benefits,1
+45-54,male,US-OH,Work environment,1
+45-54,female,US-IA,Job Satisfaction,1
+45-54,female,US-NY,Work environment,1
+45-54,female,US-OR,Working from home,1
+45-54,male,US-GA,Employee Benefits,1
+45-54,female,US-TX,Employee Benefits,1
+45-54,female,US-AR,Employee Benefits,1
+45-54,female,US-MI,Job Satisfaction,2
+45-54,male,US-MI,Job Satisfaction,1
+45-54,male,US-MD,Employee Benefits,1
+45-54,female,US-PA,Employee Benefits,1
+45-54,male,US-AZ,Job Satisfaction,1
+45-54,female,US-NV,Job Satisfaction,1
+45-54,male,US-VA,Work environment,1
+45-54,female,US-NY,Job Satisfaction,1
+45-54,male,US-FL,Working from home,1
+45-54,male,US-CA,Employee Benefits,1
+45-54,male,US-OR,Job Satisfaction,2
+45-54,female,US-NY,Working from home,1
+45-54,male,US-WA,Working from home,1
+45-54,female,US-MA,Job Satisfaction,1
+45-54,female,US-MI,Work environment,1
+45-54,male,US-NJ,Work environment,1
+45-54,male,US-TX,Job Satisfaction,3
+55-64,female,US-NJ,Job Satisfaction,1
+55-64,female,US-CA,Employee Benefits,1
+55-64,female,US-MD,Job Satisfaction,1
+55-64,female,US-GA,Working from home,1
+55-64,female,US-VA,Job Satisfaction,1
+55-64,female,US-MA,Work environment,1
+55-64,male,US-TX,Work environment,1
+55-64,male,US-WA,Work Location,1
+55-64,female,US-MN,Working from home,1
+55-64,male,US-AZ,Job Satisfaction,2
+55-64,female,US-IL,Working from home,1
+55-64,female,US-IN,Work environment,1
+55-64,female,US-OH,Working from home,1
+55-64,female,US-AZ,Employee Benefits,1
+55-64,male,US-ND,Job Satisfaction,1
+55-64,female,US-PA,Work Location,1
+55-64,male,US-MD,Employee Benefits,1
+55-64,female,US-NY,Work environment,1
+55-64,female,US-OR,Employee Benefits,1
+55-64,male,US-NE,Employee Benefits,1
+55-64,female,US-IN,Working from home,1
+55-64,male,US-WI,Employee Benefits,1
+55-64,female,US-CA,Work environment,1
+55-64,female,US-TN,Working from home,2
+55-64,male,US-CA,Working from home,1
+55-64,male,US-FL,Working from home,1
+55-64,female,US-WA,Job Satisfaction,1
+55-64,female,US-TX,Employee Benefits,2
+55-64,female,US-FL,Employee Benefits,3
+55-64,female,US-FL,Job Satisfaction,1
+55-64,male,US-HI,Employee Benefits,1
+55-64,female,US-CA,Working from home,1
+55-64,female,US-ND,Employee Benefits,1
+55-64,female,US-NY,Employee Benefits,2
+55-64,male,US-NV,Job Satisfaction,1
+55-64,female,US-NY,Working from home,1
+55-64,female,US-NJ,Working from home,1
+55-64,female,US-CO,Job Satisfaction,1
+55-64,female,US-NE,Employee Benefits,1
+55-64,male,US-TN,Job Satisfaction,1
+55-64,female,US-NJ,Work Location,1
+55-64,female,US-IL,Job Satisfaction,1
+55-64,female,US-PA,Employee Benefits,1
+55-64,female,US-IL,Employee Benefits,1
+55-64,female,US-MO,Job Satisfaction,1
+55-64,male,US-MA,Work environment,1
+55-64,female,US-VA,Employee Benefits,2
+55-64,female,US-PA,Work environment,1
+65+,female,US-SD,Job Satisfaction,1
+65+,female,US-NC,Employee Benefits,1
+65+,male,US-MN,Employee Benefits,1
+65+,female,US-MT,Job Satisfaction,1
+65+,male,US-MN,Job Satisfaction,1
+65+,female,US-CO,Job Satisfaction,1
+65+,male,,Employee Benefits,1
+65+,female,US-FL,Work Location,1
+65+,female,US-GA,Working from home,1
+65+,male,US-FL,Working from home,1
+65+,female,US-HI,Employee Benefits,1
+65+,female,US-OH,Employee Benefits,1
+65+,female,US-CA,Job Satisfaction,2
+65+,male,US-PA,Employee Benefits,1
+65+,female,US-WA,Work environment,1
+65+,female,US-AL,Job Satisfaction,1
+65+,female,US-VA,Work Location,1
+65+,female,US-NJ,Work environment,1
+65+,male,US-WA,Job Satisfaction,1
+65+,male,US-MD,Work environment,1
+65+,male,US-WA,Employee Benefits,1
+65+,female,US-NC,Working from home,1
+65+,male,US-WY,Employee Benefits,1
+65+,female,US-AZ,Job Satisfaction,1
+65+,male,US-VA,Employee Benefits,1
+65+,female,US-MO,Work environment,1
+65+,female,US-NE,Employee Benefits,1
+65+,male,US-HI,Work environment,1
+65+,female,US-OR,Work environment,1
+65+,male,US-WA,Working from home,1
+65+,female,US-FL,Working from home,2
+65+,female,US-CA,Employee Benefits,1
+65+,female,US-MN,Employee Benefits,1
+65+,female,US-KY,Working from home,1
+65+,female,US-WI,Employee Benefits,1
+65+,female,US-NY,Employee Benefits,1
+65+,female,US-TX,Employee Benefits,1
+65+,male,US-NY,Working from home,1
+65+,female,US-NY,Work environment,2
+65+,female,US-WI,Working from home,1
+65+,female,US-IN,Working from home,1
+65+,female,US-LA,Job Satisfaction,1
+65+,female,US-FL,Job Satisfaction,1
+65+,female,US-CA,Work Location,1
+65+,female,US-TX,Working from home,1
+65+,female,US-GA,Employee Benefits,1
+65+,female,US-MD,Employee Benefits,1
+unknown,unknown,US-MD,Employee Benefits,1
+unknown,unknown,US-WA,Working from home,1
+unknown,unknown,US-WA,Employee Benefits,1
+unknown,unknown,US-WI,Employee Benefits,1
+unknown,unknown,,Working from home,1
+unknown,unknown,US-CT,Employee Benefits,1
+unknown,unknown,US-NY,Working from home,1
+unknown,unknown,US-PA,Job Satisfaction,1
+unknown,unknown,US-PA,Employee Benefits,3
+unknown,unknown,US-FL,Employee Benefits,1
+unknown,male,US-VA,Working from home,1
+unknown,unknown,US-OR,Employee Benefits,1
+unknown,unknown,US-VA,Job Satisfaction,1
+unknown,unknown,US-LA,Employee Benefits,1
+unknown,unknown,US-UT,Working from home,1
+unknown,unknown,US-NC,Job Satisfaction,1
+unknown,unknown,,Job Satisfaction,1
+unknown,unknown,US-MO,Work Location,1
+unknown,unknown,US-NY,Work Location,1
+unknown,unknown,US-NY,Employee Benefits,2
+unknown,unknown,US-HI,Job Satisfaction,1
+unknown,female,US-IN,Work environment,1
+unknown,unknown,US-AL,Job Satisfaction,1
+unknown,unknown,US-CA,Working from home,1
+unknown,male,US-FL,Work environment,1
+unknown,unknown,US-WV,Employee Benefits,1
+unknown,unknown,US-NC,Work environment,1
+unknown,female,US-WI,Employee Benefits,1
+unknown,unknown,US-CA,Work environment,2
+unknown,male,US-FL,Work Location,1

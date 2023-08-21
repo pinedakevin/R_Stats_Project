@@ -1,0 +1,97 @@
+Age,Gender,Region,Q1 Answer,Response Count
+55-64,female,GB-ENG,Job Satisfaction,17
+45-54,female,GB-ENG,Job Satisfaction,10
+25-34,male,GB-ENG,Job Satisfaction,10
+25-34,female,GB-ENG,Job Satisfaction,9
+45-54,male,GB-ENG,Job Satisfaction,7
+65+,female,GB-ENG,Job Satisfaction,6
+55-64,male,GB-ENG,Job Satisfaction,6
+45-54,female,GB-ENG,Work environment,5
+35-44,male,GB-ENG,Working from home,5
+55-64,female,GB-ENG,Working from home,5
+45-54,female,GB-ENG,Working from home,5
+45-54,male,GB-ENG,Working from home,5
+unknown,unknown,GB-ENG,Job Satisfaction,5
+65+,male,GB-ENG,Job Satisfaction,4
+55-64,female,GB-ENG,Work Location,4
+18-24,male,GB-ENG,Job Satisfaction,4
+25-34,male,GB-ENG,Employee Benefits,4
+unknown,unknown,GB-ENG,Working from home,4
+18-24,male,GB-ENG,Work Location,4
+35-44,male,GB-ENG,Job Satisfaction,4
+45-54,male,GB-ENG,Work Location,4
+25-34,male,GB-ENG,Working from home,4
+35-44,female,GB-ENG,Work environment,4
+45-54,male,GB-ENG,Employee Benefits,4
+65+,male,GB-ENG,Working from home,4
+55-64,male,GB-ENG,Work environment,3
+35-44,female,GB-ENG,Job Satisfaction,3
+unknown,unknown,GB-ENG,Work environment,3
+35-44,male,GB-ENG,Employee Benefits,3
+55-64,female,GB-SCT,Job Satisfaction,3
+55-64,female,GB-SCT,Work Location,3
+55-64,male,GB-SCT,Job Satisfaction,3
+18-24,male,GB-ENG,Working from home,3
+55-64,male,GB-ENG,Working from home,3
+45-54,female,GB-ENG,Work Location,3
+unknown,unknown,GB-ENG,Employee Benefits,3
+45-54,female,GB-SCT,Employee Benefits,2
+35-44,female,GB-ENG,Working from home,2
+35-44,female,GB-ENG,Employee Benefits,2
+18-24,male,GB-ENG,Work environment,2
+18-24,male,GB-ENG,Employee Benefits,2
+unknown,unknown,GB-ENG,Work Location,2
+25-34,female,GB-ENG,Work environment,2
+45-54,male,GB-WLS,Job Satisfaction,2
+65+,female,GB-ENG,Working from home,2
+35-44,male,GB-ENG,Work environment,2
+25-34,female,GB-ENG,Employee Benefits,2
+18-24,female,GB-ENG,Employee Benefits,2
+25-34,female,GB-ENG,Working from home,2
+18-24,female,GB-ENG,Working from home,2
+25-34,male,GB-ENG,Work Location,2
+25-34,female,GB-ENG,Work Location,2
+65+,female,GB-ENG,Work environment,1
+65+,female,GB-ENG,Work Location,1
+18-24,female,GB-ENG,Job Satisfaction,1
+65+,male,GB-WLS,Job Satisfaction,1
+unknown,male,GB-ENG,Working from home,1
+unknown,unknown,GB-SCT,Work environment,1
+55-64,female,GB-SCT,Work environment,1
+55-64,female,GB-WLS,Job Satisfaction,1
+65+,female,,Working from home,1
+18-24,female,GB-WLS,Job Satisfaction,1
+45-54,female,GB-SCT,Work environment,1
+18-24,female,,Working from home,1
+unknown,male,,Working from home,1
+35-44,male,GB-SCT,Employee Benefits,1
+35-44,male,GB-NIR,Job Satisfaction,1
+35-44,male,GB-ENG,Work Location,1
+55-64,female,GB-ENG,Work environment,1
+65+,male,GB-SCT,Working from home,1
+45-54,female,GB-SCT,Working from home,1
+25-34,male,GB-WLS,Employee Benefits,1
+unknown,unknown,GB-SCT,Job Satisfaction,1
+25-34,female,,Working from home,1
+25-34,female,,Employee Benefits,1
+65+,female,GB-WLS,Job Satisfaction,1
+65+,male,GB-ENG,Work environment,1
+35-44,male,GB-SCT,Job Satisfaction,1
+55-64,male,GB-SCT,Work environment,1
+unknown,male,GB-ENG,Work Location,1
+25-34,female,GB-WLS,Work Location,1
+65+,female,GB-SCT,Job Satisfaction,1
+55-64,male,GB-ENG,Employee Benefits,1
+25-34,male,GB-ENG,Work environment,1
+65+,male,GB-SCT,Job Satisfaction,1
+unknown,male,GB-ENG,Employee Benefits,1
+25-34,female,GB-SCT,Job Satisfaction,1
+18-24,male,GB-WLS,Work Location,1
+45-54,female,GB-NIR,Employee Benefits,1
+45-54,male,GB-ENG,Work environment,1
+35-44,male,GB-SCT,Work Location,1
+55-64,female,GB-ENG,Employee Benefits,1
+55-64,female,GB-SCT,Working from home,1
+45-54,female,GB-WLS,Job Satisfaction,1
+55-64,male,GB-ENG,Work Location,1
+18-24,female,GB-ENG,Work environment,1
